@@ -1,4 +1,4 @@
-iOS 9b3 UIKit for Sketch
+iOS 9b5 UIKit for Sketch
 ===========
 
 Introducing the first most accurate and most complete iOS 9 UI template.
@@ -14,14 +14,15 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 ## Components
 
 ##### Apps
-- Settings - Root
-- Photos - Moments
-- Messages - Root
 - Contacts - Root
+- Email - All Inboxes
+- Maps - Root
+- Messages - Root, Conversation View
 - Music - My Music, Now Playing
 - News - For You
+- Photos - Moments
 - Safari - Webpage View
-- Email - All Inboxes
+- Settings - Root, Display & Brightness
 
 ##### UINavigationBar
 - Dark & Light Version
@@ -39,6 +40,10 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 ##### UIAlertController
 - Alert Style
 - ActionSheet Style
+- Realistic Blur
+
+##### UIMenuController
+- Cut, Copy, Paste and Replace...
 - Realistic Blur
 
 ##### UIActivityViewController
